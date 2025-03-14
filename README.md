@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Herlinda Antonio Antonio  
 
-<!--
-**lindaAntonio/lindaAntonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+estoy aprendiendo sobre el desarrollo de la inteligencia artificial y el aprendizaje automático. Me encantaria trabajar en proyectos de redes neuronales, procesamiento de imágenes y análisis de datos.  
 
-Here are some ideas to get you started:
+📌 **Intereses:**  
+- 🔹 Inteligencia Artificial
+- 🔹 Desarrollo con Python y TensorFlow  
+- 🔹 Proyectos con visión por computadora  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Proyectos Destacados:**  
+- 🖼️ **Clasificación de imágenes (CNN)**: Un modelo de IA que distingue entre gatos y perros.  
+- 📊 **Análisis de datos con Python**: Aplicaciones de estadística y visualización.  
+
+📫 **Contáctame:**  
+- 📧 Email: antonioherlinda6@gmail.com  
+- 🐙 [GitHub](https://github.com/lindaAntonio)  
+
